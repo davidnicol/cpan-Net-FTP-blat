@@ -7,7 +7,7 @@ use Carp;
 
 use vars '$VERSION';
 
-$VERSION = 0.02;
+$VERSION = 0.03;
 
 sub Net::FTP::slurp
 # store a remote file to a scalar
